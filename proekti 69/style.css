@@ -1,0 +1,108 @@
+.H1 {
+    padding-left: 20px;
+}
+.A1 {
+    margin-left: 20px;
+    width: 201px;
+    height: 20px;
+    margin-top:0px;
+}
+.A2 {
+    margin-left: 30px;
+    width: 580px;
+    height: 20px;
+}
+.A3 {
+    margin-left: 18px;
+    width: 210px;
+    height: 20px;
+}
+.A4 {
+    margin-left: 23px;
+    width: 100px;
+    height: 30px;
+    background-color: #FFD43A;
+    border: #FFD43A;
+    border-radius: 10px;
+}
+table {
+    border-collapse: collapse;
+    margin-left: 20px;
+    margin-top: 4px;
+    text-align: center;
+}
+.b1 {
+    width: 72px;
+}
+.b2 {
+    width: 444px;
+    text-align: left;
+    padding-left:20px ;
+}
+.b3 {
+    width: 276px;
+}
+.b4 {
+    width:190px ;
+}
+.b5 {
+    width:190px ;
+}
+.D1 {
+    padding-left: 1120px;
+    padding-top: 2px
+}
+.D2 {
+    padding-left: 570px
+}
+.D3 {
+    padding-left: 230px;
+}
+.D4 {
+    padding-left: 20px;
+}
+.H2 {
+    padding-top: 50px;
+    padding-left: 20px;
+}
+tr {
+    height: 60px;
+}
+.bu1 {
+    width: 120px;
+    height: 40px;
+    background-color: #FFD43A;
+    border: #FFD43A;
+}
+.bu2 {
+    width: 120px;
+    height: 40px;
+    background-color: #FF0000;
+    border: #FF0000;
+}
+.f1 {
+    color: #FF0000;
+}
+.g1 {
+    text-align: left;
+    padding-left: 20px;
+}
+@font-face {
+    font-family: "font inter";
+    src: url(fonts/Inter-Regular.ttf);
+}
+table {
+    font-family: "font inter";
+}
+.H1 {
+    font-family: "font inter";
+}
+.H2 {
+    font-family: "font inter";
+}
+form {
+    font-family: "font inter";
+}
+input {
+    font-family: "font inter";
+}
